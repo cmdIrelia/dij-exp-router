@@ -1,0 +1,9 @@
+algorithm.cpp和graph_array.h是VC的源码
+graph_array.h是由graph_array.txt生成
+graph_array.txt是由graph_generator.py生成
+
+algorithm计算得到的结果写在path_result.txt中
+从中间取出graph路径粘贴写入graph_path.txt
+从中间取出graph权值粘贴写入graph_weight.txt
+
+运行draw_graph.py
